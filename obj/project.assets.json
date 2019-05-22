@@ -670,11 +670,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/shizo/Work/kr_4/kr_4.csproj",
+      "projectUniqueName": "/Users/shizo/Work/kr_4_git/kr_4/kr_4.csproj",
       "projectName": "kr_4",
-      "projectPath": "/Users/shizo/Work/kr_4/kr_4.csproj",
+      "projectPath": "/Users/shizo/Work/kr_4_git/kr_4/kr_4.csproj",
       "packagesPath": "/Users/shizo/.nuget/packages/",
-      "outputPath": "/Users/shizo/Work/kr_4/obj/",
+      "outputPath": "/Users/shizo/Work/kr_4_git/kr_4/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
