@@ -1,0 +1,10 @@
+/Users/shizo/Work/kr_4/bin/Debug/netcoreapp2.0/kr_4.deps.json
+/Users/shizo/Work/kr_4/bin/Debug/netcoreapp2.0/kr_4.runtimeconfig.json
+/Users/shizo/Work/kr_4/bin/Debug/netcoreapp2.0/kr_4.runtimeconfig.dev.json
+/Users/shizo/Work/kr_4/bin/Debug/netcoreapp2.0/kr_4.dll
+/Users/shizo/Work/kr_4/bin/Debug/netcoreapp2.0/kr_4.pdb
+/Users/shizo/Work/kr_4/obj/Debug/netcoreapp2.0/kr_4.csproj.CoreCompileInputs.cache
+/Users/shizo/Work/kr_4/obj/Debug/netcoreapp2.0/kr_4.AssemblyInfoInputs.cache
+/Users/shizo/Work/kr_4/obj/Debug/netcoreapp2.0/kr_4.AssemblyInfo.cs
+/Users/shizo/Work/kr_4/obj/Debug/netcoreapp2.0/kr_4.dll
+/Users/shizo/Work/kr_4/obj/Debug/netcoreapp2.0/kr_4.pdb
