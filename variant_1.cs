@@ -6,7 +6,7 @@ namespace kr_4
     {
         public string test()
         {
-            return " Bro";
+            return " Bro1";
         }
     }
 }
